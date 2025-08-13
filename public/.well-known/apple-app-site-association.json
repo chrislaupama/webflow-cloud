@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAM_ID.BUNDLE_ID",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["TEAM_ID.BUNDLE_ID"]
+  },
+  "appclips": {
+    "apps": ["TEAM_ID.BUNDLE_ID.Clip"]
+  }
+}
